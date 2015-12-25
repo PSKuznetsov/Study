@@ -1,0 +1,15 @@
+III solve: 5
+
+Answer is: 5
+------------------------------------------
+III solve 6
+
+Answer is: mama mama mama mama fgfg 5656 
+Amount of values: 6
+------------------------------------------
+III solve 11
+
+Word: zxzx met in phrase 5 times
+Word: kkhb met in phrase 6 times
+
+------------------------------------------
