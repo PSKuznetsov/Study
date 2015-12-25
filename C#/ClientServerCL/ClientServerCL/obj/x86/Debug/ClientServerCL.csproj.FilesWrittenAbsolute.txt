@@ -1,0 +1,7 @@
+/Users/PSKuznetsov/Documents/Projects/CSharpProjects/ClientServerCL/ClientServerCL/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/PSKuznetsov/Documents/Projects/CSharpProjects/ClientServerCL/ClientServerCL/bin/Debug/ClientServerCL.exe.mdb
+/Users/PSKuznetsov/Documents/Projects/CSharpProjects/ClientServerCL/ClientServerCL/bin/Debug/ClientServerCL.exe
+/Users/PSKuznetsov/Documents/Projects/CSharpProjects/ClientServerCL/ClientServerCL/obj/x86/Debug/ClientServerCL.exe
+/Users/PSKuznetsov/Documents/Projects/CSharpProjects/ClientServerCL/ClientServerCL/obj/x86/Debug/ClientServerCL.exe.mdb
+/Users/PSKuznetsov/Documents/Projects/CSharpProjects/ClientServerCL/ClientServerCL/bin/Debug/Parse.NetFx45.dll
+/Users/PSKuznetsov/Documents/Projects/CSharpProjects/ClientServerCL/ClientServerCL/bin/Debug/Parse.dll

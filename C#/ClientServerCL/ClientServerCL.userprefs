@@ -1,0 +1,13 @@
+﻿<Properties StartupItem="ClientServerCL/ClientServerCL.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ClientServerCL/User.cs">
+    <Files>
+      <File FileName="ClientServerCL/Program.cs" Line="35" Column="1" />
+      <File FileName="ClientServerCL/User.cs" Line="96" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
