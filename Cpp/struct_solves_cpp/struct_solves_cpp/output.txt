@@ -1,0 +1,20 @@
+Toy id: Tiger
+Toy price: 1900
+Toy's age limit from: 0 to: 99
+-------------------------------------------
+Toy id: Rabb
+Toy price: 2850
+Toy's age limit from: 6 to: 99
+-------------------------------------------
+Toy id: Sun
+Toy price: 1900
+Toy's age limit from: 0 to: 99
+-------------------------------------------
+Toy id: Car
+Toy price: 1900
+Toy's age limit from: 0 to: 99
+-------------------------------------------
+Toy id: Cargo
+Toy price: 1900
+Toy's age limit from: 0 to: 99
+-------------------------------------------
