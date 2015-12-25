@@ -1,0 +1,5 @@
+/Users/PSKuznetsov/C#Projects/C#_Practic_4_VI_11/C#_Practic_4_VI_11/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/PSKuznetsov/C#Projects/C#_Practic_4_VI_11/C#_Practic_4_VI_11/bin/Debug/C#_Practic_4_VI_11.exe.mdb
+/Users/PSKuznetsov/C#Projects/C#_Practic_4_VI_11/C#_Practic_4_VI_11/bin/Debug/C#_Practic_4_VI_11.exe
+/Users/PSKuznetsov/C#Projects/C#_Practic_4_VI_11/C#_Practic_4_VI_11/obj/x86/Debug/C#_Practic_4_VI_11.exe
+/Users/PSKuznetsov/C#Projects/C#_Practic_4_VI_11/C#_Practic_4_VI_11/obj/x86/Debug/C#_Practic_4_VI_11.exe.mdb
