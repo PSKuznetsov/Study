@@ -1,0 +1,6 @@
+String is empty: NO
+Summ of strings: ab67babbbb
+
+Digits from string: 6 7 
+Size of string: 10
+The Lagest Sequence: 4 b
