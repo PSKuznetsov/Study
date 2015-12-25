@@ -1,0 +1,16 @@
+﻿<Properties StartupItem="RegexDot/RegexDot.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="RegexDot/bin/Debug/outputResult.txt">
+    <Files>
+      <File FileName="RegexDot/UnionTest.cs" Line="86" Column="9" />
+      <File FileName="RegexDot/Program.cs" Line="10" Column="3" />
+      <File FileName="RegexDot/bin/Debug/input.txt" Line="189" Column="1" />
+      <File FileName="RegexDot/bin/Debug/output.txt" Line="13" Column="4" />
+      <File FileName="RegexDot/bin/Debug/outputResult.txt" Line="3" Column="18" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

@@ -1,0 +1,5 @@
+/Users/PSKuznetsov/Documents/Projects/CSharpProjects/RegexDot/RegexDot/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/PSKuznetsov/Documents/Projects/CSharpProjects/RegexDot/RegexDot/bin/Debug/RegexDot.exe.mdb
+/Users/PSKuznetsov/Documents/Projects/CSharpProjects/RegexDot/RegexDot/bin/Debug/RegexDot.exe
+/Users/PSKuznetsov/Documents/Projects/CSharpProjects/RegexDot/RegexDot/obj/x86/Debug/RegexDot.exe
+/Users/PSKuznetsov/Documents/Projects/CSharpProjects/RegexDot/RegexDot/obj/x86/Debug/RegexDot.exe.mdb

@@ -1,0 +1,12 @@
+
+Test avrg results:
+Regex result: 159690.6
+String result: 4014506.6
+StringBuilder result: 862709.2
+
+Regex results:
+721356 20027 16828 6127 34115 
+String results:
+1503219 2397842 3645832 1549679 10975961 
+String Builder results:
+1205946 356821 479662 73746 2197371 
