@@ -1,0 +1,28 @@
+–––––––––––Stack–––––––––––
+One
+Two
+Four
+Five
+Three
+Words count: 4
+–––––––––––Queue–––––––––––
+One
+Two
+Four
+Five
+Three
+Words count: 4
+–––––––––––List–––––––––––
+One
+Two
+Four
+Five
+Three
+Words count: 4
+–––––––––––Double linked list–––––––––––
+One
+Two
+Four
+Five
+Three
+Words count: 4
