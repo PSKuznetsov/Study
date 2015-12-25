@@ -1,0 +1,5 @@
+/Users/PSKuznetsov/Documents/Projects/C#Projects/C#Practice_StepArray/C#Practice_StepArray/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/PSKuznetsov/Documents/Projects/C#Projects/C#Practice_StepArray/C#Practice_StepArray/bin/Debug/C#Practice_StepArray.exe.mdb
+/Users/PSKuznetsov/Documents/Projects/C#Projects/C#Practice_StepArray/C#Practice_StepArray/bin/Debug/C#Practice_StepArray.exe
+/Users/PSKuznetsov/Documents/Projects/C#Projects/C#Practice_StepArray/C#Practice_StepArray/obj/x86/Debug/C#Practice_StepArray.exe
+/Users/PSKuznetsov/Documents/Projects/C#Projects/C#Practice_StepArray/C#Practice_StepArray/obj/x86/Debug/C#Practice_StepArray.exe.mdb
