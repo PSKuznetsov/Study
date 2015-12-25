@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Scheme
+   version = "1.3">
+   <BuildAction>
+      <BuildActionEntries>
+         <BuildActionEntry
+            buildForRunning = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "AFAC6809C97CCF6DE76C76BC"
+               BuildableName = "PK_2_1_3_6"
+               BlueprintName = "PK_2_1_3_6"
+               ReferencedContainer = "container:PK_2_1_3_6.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+      </BuildActionEntries>
+   </BuildAction>
+   <LaunchAction
+      useCustomWorkingDirectory = "NO"
+      buildConfiguration = "Debug">
+      <BuildableProductRunnable>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "AFAC6809C97CCF6DE76C76BC"
+            BuildableName = "PK_2_1_3_6"
+            BlueprintName = "PK_2_1_3_6"
+            ReferencedContainer = "container:PK_2_1_3_6.xcodeproj">
+         </BuildableReference>
+      </BuildableProductRunnable>
+   </LaunchAction>
+</Scheme>
